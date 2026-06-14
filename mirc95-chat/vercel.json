@@ -1,0 +1,5 @@
+{
+  "framework": "vite",
+  "buildCommand": "cd mirc95-chat && npm install && npm run build",
+  "outputDirectory": "mirc95-chat/dist"
+}
